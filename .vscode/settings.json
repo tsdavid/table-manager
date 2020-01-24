@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\david\\.virtualenvs\\table-manager-qfjF3nIV\\Scripts\\python.exe",
+  "python.formatting.provider": "black",
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
